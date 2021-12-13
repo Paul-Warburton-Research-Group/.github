@@ -1,7 +1,7 @@
 # Paul Warburton Research Group
 
 ## Repository Overview
-- Annealing samplers: Contains Monte-Carlo code and spin-vector dynamical simulators
+- Annealing samplers: Contains Monte-Carlo code and dynamical spin-vector simulators
 
 <!--
 
